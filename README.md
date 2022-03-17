@@ -1,4 +1,4 @@
-# fanplate
+# Fan Plate Control
 Fan Plate Control using Arduino and PID
 
 
