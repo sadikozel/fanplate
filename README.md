@@ -18,7 +18,7 @@ Here is what you need for this project:
 
 *Potentiometer	
 
-*Alumunium profiles and MDF.
+*Aluminium profiles and MDF.
 
 
 And here is circuit diagram for all components:
