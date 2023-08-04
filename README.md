@@ -6,13 +6,19 @@ Fan and Plate Control using PID controller system for School Project.
 
 Here is what you need for this project:
 
-Arduino Uno	
-2x16 LCD Display	
-L298N Motor Driver	
-MPU6050 Sensor
-Motor and propeller
-Potentiometer	
-Alumunium profiles and MDF 
+*Arduino Uno	
+
+*2x16 LCD Display	
+
+*L298N Motor Driver	
+
+*MPU6050 Sensor
+
+*Motor and propeller
+
+*Potentiometer	
+
+*Alumunium profiles and MDF.
 
 
 And here is circuit diagram for all components:
